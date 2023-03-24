@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi página web</title>
+    <style>
+        body {
+            background-color: black;
+            color: red;
+            font-family: Arial, sans-serif;
+        }
+
+        a {
+            color: red;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <a href="https://twitch.tv/SantePZ0">Twitch</a>
+    <a href="https://youtube.com/SantePZ">YouTube</a>
+    <a href="https://instagram.com/SantePZ">Instagram</a>
+    <a href="https://twitter.com/SantePz0">Twitter</a>
+</body>
+</html>
